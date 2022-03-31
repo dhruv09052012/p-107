@@ -1,0 +1,39 @@
+.header_div
+{
+    background-color: gray;
+    color: white;
+    font-family: 'Lobster', cursive;
+}
+
+.main_div
+{
+    background-color:white;
+}
+
+.copy_right_footer
+{
+    position:fixed;
+    font-family: 'Pacifico', cursive;
+    color: cornflowerblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+    font-size: 35px;
+}
+
+#start_btn
+{
+    margin-top: 25px;
+    font-family: 'Boogaloo', cursive;
+    font-size: 27px;
+}
+
+.main_div h3,h4
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 28px;
+}
